@@ -6,3 +6,4 @@ faiss-cpu
 openai
 python-dotenv
 pyarrow
+sentence_transformers
