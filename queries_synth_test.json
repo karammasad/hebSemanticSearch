@@ -1,0 +1,766 @@
+[
+  {
+    "query_id": "s7",
+    "query": "ready-to-eat BBQ chicken"
+  },
+  {
+    "query_id": "s9",
+    "query": "picnic-style BBQ chicken"
+  },
+  {
+    "query_id": "s11",
+    "query": "H-E-B pimento cheese spread"
+  },
+  {
+    "query_id": "s15",
+    "query": "lunch cheese spreads"
+  },
+  {
+    "query_id": "s16",
+    "query": "H-E-B fragrance-free fabric softener"
+  },
+  {
+    "query_id": "s24",
+    "query": "kosher vanilla coffee creamer"
+  },
+  {
+    "query_id": "s29",
+    "query": "flanken-style beef ribs"
+  },
+  {
+    "query_id": "s30",
+    "query": "wet-aged beef ribs for grilling"
+  },
+  {
+    "query_id": "s34",
+    "query": "sustainably sourced seafood sushi"
+  },
+  {
+    "query_id": "s36",
+    "query": "H-E-B Cajun sushi rolls"
+  },
+  {
+    "query_id": "s40",
+    "query": "sushi with imitation crab and avocado"
+  },
+  {
+    "query_id": "s41",
+    "query": "H-E-B vitamin B-complex liquid"
+  },
+  {
+    "query_id": "s47",
+    "query": "dried baby lima beans"
+  },
+  {
+    "query_id": "s50",
+    "query": "easy side dish beans"
+  },
+  {
+    "query_id": "s53",
+    "query": "mouthwash for plaque and gingivitis"
+  },
+  {
+    "query_id": "s54",
+    "query": "fresh mint mouthwash"
+  },
+  {
+    "query_id": "s55",
+    "query": "oral hygiene products twin pack"
+  },
+  {
+    "query_id": "s60",
+    "query": "game day appetizers chicken wings"
+  },
+  {
+    "query_id": "s61",
+    "query": "H-E-B Co Q-10 supplements"
+  },
+  {
+    "query_id": "s65",
+    "query": "200 mg Co Q-10 dietary supplement"
+  },
+  {
+    "query_id": "s66",
+    "query": "Hill Country Fare mashed potatoes"
+  },
+  {
+    "query_id": "s68",
+    "query": "quick side dishes for dinner"
+  },
+  {
+    "query_id": "s72",
+    "query": "fresh whole chicken for roasting"
+  },
+  {
+    "query_id": "s73",
+    "query": "antibiotic-free chicken"
+  },
+  {
+    "query_id": "s74",
+    "query": "family dinner chicken recipes"
+  },
+  {
+    "query_id": "s80",
+    "query": "chipotle seasoning for Mexican dishes"
+  },
+  {
+    "query_id": "s81",
+    "query": "H-E-B size 4 baby diapers"
+  },
+  {
+    "query_id": "s84",
+    "query": "hypoallergenic baby diapers"
+  },
+  {
+    "query_id": "s86",
+    "query": "H-E-B boneless chicken breast"
+  },
+  {
+    "query_id": "s87",
+    "query": "natural chicken breast for grilling"
+  },
+  {
+    "query_id": "s89",
+    "query": "fresh chicken breast for dinner"
+  },
+  {
+    "query_id": "s91",
+    "query": "H-E-B chicken fajitas"
+  },
+  {
+    "query_id": "s99",
+    "query": "oven roast chicken breast"
+  },
+  {
+    "query_id": "s100",
+    "query": "zesty garlic parmesan chicken"
+  },
+  {
+    "query_id": "s101",
+    "query": "H-E-B apple cinnamon oatmeal"
+  },
+  {
+    "query_id": "s114",
+    "query": "spinach apple walnut salad"
+  },
+  {
+    "query_id": "s115",
+    "query": "quick lunch salads with grapes and broccoli"
+  },
+  {
+    "query_id": "s123",
+    "query": "high protein cheese snacks"
+  },
+  {
+    "query_id": "s125",
+    "query": "natural cheese sticks 12 count"
+  },
+  {
+    "query_id": "s127",
+    "query": "intense chocolate ice cream"
+  },
+  {
+    "query_id": "s136",
+    "query": "H-E-B beef soup"
+  },
+  {
+    "query_id": "s139",
+    "query": "rich beef broth"
+  },
+  {
+    "query_id": "s145",
+    "query": "nutty flavor seafood"
+  },
+  {
+    "query_id": "s148",
+    "query": "spice for baking"
+  },
+  {
+    "query_id": "s151",
+    "query": "H-E-B cubed pork stew meat"
+  },
+  {
+    "query_id": "s152",
+    "query": "natural boneless pork for stew"
+  },
+  {
+    "query_id": "s153",
+    "query": "pork meat for chile verde"
+  },
+  {
+    "query_id": "s163",
+    "query": "organic dairy-free milk"
+  },
+  {
+    "query_id": "s167",
+    "query": "mild flavored cheese"
+  },
+  {
+    "query_id": "s170",
+    "query": "cheese for crackers and fruit"
+  },
+  {
+    "query_id": "s172",
+    "query": "fresh rainbow trout"
+  },
+  {
+    "query_id": "s177",
+    "query": "vegan dietary supplements"
+  },
+  {
+    "query_id": "s181",
+    "query": "H-E-B beef brisket"
+  },
+  {
+    "query_id": "s183",
+    "query": "natural beef brisket"
+  },
+  {
+    "query_id": "s184",
+    "query": "meat for BBQ"
+  },
+  {
+    "query_id": "s189",
+    "query": "smoky cheese topping"
+  },
+  {
+    "query_id": "s190",
+    "query": "cheddar cheese for chili"
+  },
+  {
+    "query_id": "s191",
+    "query": "H-E-B riced cauliflower"
+  },
+  {
+    "query_id": "s196",
+    "query": "H-E-B smoked salmon"
+  },
+  {
+    "query_id": "s201",
+    "query": "H-E-B shrimp cocktail"
+  },
+  {
+    "query_id": "s203",
+    "query": "Chesapeake style shrimp"
+  },
+  {
+    "query_id": "s204",
+    "query": "ready to eat shrimp appetizers"
+  },
+  {
+    "query_id": "s205",
+    "query": "shrimp with cocktail sauce"
+  },
+  {
+    "query_id": "s210",
+    "query": "Texas-Size Pack baby diapers"
+  },
+  {
+    "query_id": "s212",
+    "query": "H-E-B Organics peach guava drink"
+  },
+  {
+    "query_id": "s213",
+    "query": "low calorie sparkling drinks"
+  },
+  {
+    "query_id": "s220",
+    "query": "plant-based frozen treats"
+  },
+  {
+    "query_id": "s221",
+    "query": "sliced deli cheese"
+  },
+  {
+    "query_id": "s223",
+    "query": "Mexican cheese slices"
+  },
+  {
+    "query_id": "s226",
+    "query": "H-E-B wild caught shrimp"
+  },
+  {
+    "query_id": "s227",
+    "query": "colossal raw shrimp for grilling"
+  },
+  {
+    "query_id": "s229",
+    "query": "seafood for summer BBQ"
+  },
+  {
+    "query_id": "s230",
+    "query": "wild caught gulf shrimp"
+  },
+  {
+    "query_id": "s231",
+    "query": "H-E-B fragrance free baby wipes"
+  },
+  {
+    "query_id": "s232",
+    "query": "value pack baby wipes"
+  },
+  {
+    "query_id": "s235",
+    "query": "H-E-B baby care products"
+  },
+  {
+    "query_id": "s237",
+    "query": "butter-based cooking sauce"
+  },
+  {
+    "query_id": "s240",
+    "query": "gourmet cooking sauces"
+  },
+  {
+    "query_id": "s241",
+    "query": "H-E-B Mi Tienda seasoned pork steaks"
+  },
+  {
+    "query_id": "s243",
+    "query": "grill-ready pork butt steaks"
+  },
+  {
+    "query_id": "s250",
+    "query": "berry flavored melatonin"
+  },
+  {
+    "query_id": "s253",
+    "query": "value pack chicken thighs"
+  },
+  {
+    "query_id": "s258",
+    "query": "lunch sandwiches with tuna"
+  },
+  {
+    "query_id": "s262",
+    "query": "low carb chicken breast bites"
+  },
+  {
+    "query_id": "s265",
+    "query": "frozen spicy chicken bites"
+  },
+  {
+    "query_id": "s266",
+    "query": "H-E-B crunchy quinoa granola"
+  },
+  {
+    "query_id": "s269",
+    "query": "healthy granola for breakfast"
+  },
+  {
+    "query_id": "s270",
+    "query": "vegetarian granola cereal"
+  },
+  {
+    "query_id": "s274",
+    "query": "rosemary for chicken recipes"
+  },
+  {
+    "query_id": "s276",
+    "query": "non-dairy frozen dessert"
+  },
+  {
+    "query_id": "s277",
+    "query": "sugar-free vegan ice cream"
+  },
+  {
+    "query_id": "s279",
+    "query": "plant-based frozen dessert"
+  },
+  {
+    "query_id": "s280",
+    "query": "low carb ice cream"
+  },
+  {
+    "query_id": "s282",
+    "query": "H-E-B spiral sliced ham"
+  },
+  {
+    "query_id": "s284",
+    "query": "boneless honey ham"
+  },
+  {
+    "query_id": "s293",
+    "query": "ready to serve broccoli cheese soup"
+  },
+  {
+    "query_id": "s296",
+    "query": "Central Market flaxseed oil supplements"
+  },
+  {
+    "query_id": "s300",
+    "query": "Central Market dietary supplements"
+  },
+  {
+    "query_id": "s305",
+    "query": "resealable bag cheese slices"
+  },
+  {
+    "query_id": "s308",
+    "query": "soy wax melts for home"
+  },
+  {
+    "query_id": "s310",
+    "query": "hand-poured wax melts"
+  },
+  {
+    "query_id": "s312",
+    "query": "lemon pepper seasoned crab legs"
+  },
+  {
+    "query_id": "s313",
+    "query": "ready to reheat crab legs"
+  },
+  {
+    "query_id": "s315",
+    "query": "microwaveable crab legs"
+  },
+  {
+    "query_id": "s322",
+    "query": "cheddar cheese for burgers"
+  },
+  {
+    "query_id": "s323",
+    "query": "gluten-free sliced cheese"
+  },
+  {
+    "query_id": "s324",
+    "query": "natural cheddar cheese slices"
+  },
+  {
+    "query_id": "s325",
+    "query": "cheese slices for sandwiches"
+  },
+  {
+    "query_id": "s326",
+    "query": "Flaming Bird beef fajita torta"
+  },
+  {
+    "query_id": "s328",
+    "query": "Mexican torta with beef"
+  },
+  {
+    "query_id": "s330",
+    "query": "beef fajita torta with avocado"
+  },
+  {
+    "query_id": "s331",
+    "query": "organic lentil soup"
+  },
+  {
+    "query_id": "s332",
+    "query": "H-E-B organic soups"
+  },
+  {
+    "query_id": "s336",
+    "query": "bacon wrapped beef tenderloin"
+  },
+  {
+    "query_id": "s337",
+    "query": "H-E-B Pitmaster beef"
+  },
+  {
+    "query_id": "s338",
+    "query": "grill ready beef filets"
+  },
+  {
+    "query_id": "s339",
+    "query": "applewood smoked bacon wrapped beef"
+  },
+  {
+    "query_id": "s343",
+    "query": "vegan gluten-free granola"
+  },
+  {
+    "query_id": "s346",
+    "query": "H-E-B marinated beef sirloin steak"
+  },
+  {
+    "query_id": "s347",
+    "query": "southwest marinade beef steak"
+  },
+  {
+    "query_id": "s348",
+    "query": "grilling steaks with marinade"
+  },
+  {
+    "query_id": "s349",
+    "query": "pre-marinated beef for BBQ"
+  },
+  {
+    "query_id": "s354",
+    "query": "vitamins for vegans"
+  },
+  {
+    "query_id": "s355",
+    "query": "Central Market B-Complex 100 mg"
+  },
+  {
+    "query_id": "s356",
+    "query": "Central Market flax seed oil supplements"
+  },
+  {
+    "query_id": "s366",
+    "query": "H-E-B seafood stuffed lobster tail"
+  },
+  {
+    "query_id": "s370",
+    "query": "wild caught lobster tails with stuffing"
+  },
+  {
+    "query_id": "s373",
+    "query": "no antibiotics beef roast"
+  },
+  {
+    "query_id": "s378",
+    "query": "pulled pork ingredients"
+  },
+  {
+    "query_id": "s379",
+    "query": "juicy pork butt for carnitas"
+  },
+  {
+    "query_id": "s386",
+    "query": "Central Market crab stuffed shells"
+  },
+  {
+    "query_id": "s387",
+    "query": "100% crab meat shells"
+  },
+  {
+    "query_id": "s388",
+    "query": "easy crab meat entree"
+  },
+  {
+    "query_id": "s390",
+    "query": "crab meat without shell"
+  },
+  {
+    "query_id": "s392",
+    "query": "rosemary chicken skewers"
+  },
+  {
+    "query_id": "s400",
+    "query": "natural vitamin E capsules"
+  },
+  {
+    "query_id": "s403",
+    "query": "frozen fruit smoothie mix"
+  },
+  {
+    "query_id": "s411",
+    "query": "H-E-B frozen fruit bars"
+  },
+  {
+    "query_id": "s419",
+    "query": "deli roasted chicken"
+  },
+  {
+    "query_id": "s424",
+    "query": "USDA Prime beef shank"
+  },
+  {
+    "query_id": "s425",
+    "query": "barbecue beef cuts"
+  },
+  {
+    "query_id": "s426",
+    "query": "H-E-B Sushiya poke bowl"
+  },
+  {
+    "query_id": "s430",
+    "query": "grab and go lunch sushi"
+  },
+  {
+    "query_id": "s433",
+    "query": "Tex-Mex chicken seasoning"
+  },
+  {
+    "query_id": "s438",
+    "query": "soft toothbrushes for sensitive teeth"
+  },
+  {
+    "query_id": "s439",
+    "query": "best toothbrush for whitening"
+  },
+  {
+    "query_id": "s440",
+    "query": "H-E-B oral care products"
+  },
+  {
+    "query_id": "s442",
+    "query": "hot cooked shrimp"
+  },
+  {
+    "query_id": "s444",
+    "query": "ready to eat seafood"
+  },
+  {
+    "query_id": "s449",
+    "query": "traditional Mexican tamales"
+  },
+  {
+    "query_id": "s450",
+    "query": "gluten free tamales"
+  },
+  {
+    "query_id": "s453",
+    "query": "non-BPA bottled water"
+  },
+  {
+    "query_id": "s456",
+    "query": "H-E-B boneless pork chops"
+  },
+  {
+    "query_id": "s459",
+    "query": "center loin pork chops"
+  },
+  {
+    "query_id": "s461",
+    "query": "H-E-B kosher beef ribs"
+  },
+  {
+    "query_id": "s463",
+    "query": "kosher beef ribs"
+  },
+  {
+    "query_id": "s464",
+    "query": "Texas style beef ribs"
+  },
+  {
+    "query_id": "s465",
+    "query": "beef ribs for grilling"
+  },
+  {
+    "query_id": "s466",
+    "query": "Haven + Key scented candles"
+  },
+  {
+    "query_id": "s469",
+    "query": "long-lasting scented candles"
+  },
+  {
+    "query_id": "s470",
+    "query": "Haven + Key home decor"
+  },
+  {
+    "query_id": "s473",
+    "query": "dairy-free milk alternatives"
+  },
+  {
+    "query_id": "s482",
+    "query": "sustainably sourced sockeye salmon"
+  },
+  {
+    "query_id": "s489",
+    "query": "frozen shrimp for gumbo"
+  },
+  {
+    "query_id": "s490",
+    "query": "resealable bag shrimp"
+  },
+  {
+    "query_id": "s491",
+    "query": "H-E-B strawberry sparkling water"
+  },
+  {
+    "query_id": "s492",
+    "query": "strawberry mineral water 12 pack"
+  },
+  {
+    "query_id": "s493",
+    "query": "carbonated water from Texas"
+  },
+  {
+    "query_id": "s498",
+    "query": "dolphin-safe canned tuna"
+  },
+  {
+    "query_id": "s512",
+    "query": "wild caught tuna with lemon and pepper"
+  },
+  {
+    "query_id": "s513",
+    "query": "high protein tuna snacks"
+  },
+  {
+    "query_id": "s515",
+    "query": "MSC certified tuna pouches"
+  },
+  {
+    "query_id": "s516",
+    "query": "H-E-B beef and broccoli bowl"
+  },
+  {
+    "query_id": "s518",
+    "query": "quick lunch beef and broccoli"
+  },
+  {
+    "query_id": "s519",
+    "query": "Chinese Kitchen beef and broccoli"
+  },
+  {
+    "query_id": "s520",
+    "query": "beef and broccoli with rice"
+  },
+  {
+    "query_id": "s521",
+    "query": "Hill Country Fare zero calorie sports drink"
+  },
+  {
+    "query_id": "s526",
+    "query": "H-E-B Southwest chicken salad"
+  },
+  {
+    "query_id": "s528",
+    "query": "lunch salads with black beans and corn"
+  },
+  {
+    "query_id": "s529",
+    "query": "convenient meal salads for one"
+  },
+  {
+    "query_id": "s537",
+    "query": "peppermint scented candles"
+  },
+  {
+    "query_id": "s547",
+    "query": "Halloween sushi combo pack"
+  },
+  {
+    "query_id": "s548",
+    "query": "spooky sushi rolls"
+  },
+  {
+    "query_id": "s551",
+    "query": "Central Market garlic lemon pork"
+  },
+  {
+    "query_id": "s552",
+    "query": "garlic lemon pepper pork"
+  },
+  {
+    "query_id": "s559",
+    "query": "peanut butter and grape jelly snacks"
+  },
+  {
+    "query_id": "s561",
+    "query": "H-E-B fresh flounder fillets"
+  },
+  {
+    "query_id": "s566",
+    "query": "Hill Country Fare garlic salt"
+  },
+  {
+    "query_id": "s567",
+    "query": "garlic seasoning for chicken"
+  },
+  {
+    "query_id": "s571",
+    "query": "H-E-B baby food carrot"
+  },
+  {
+    "query_id": "s573",
+    "query": "healthy baby food options"
+  }
+]
