@@ -27,3 +27,7 @@ The system can be used for query–product retrieval tasks such as e-commerce se
   ```bash
   pip install -r requirements.txt
 
+
+
+HOW TO RUN:
+/usr/local/bin/python3 PATH/semanticSearch.py --products [PATH_TO_PRODUCTS_FILE] --queries [PATH_TO_QUERIES_FILE]
