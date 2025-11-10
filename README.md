@@ -1,4 +1,4 @@
-# HEB XOXO Product Retrieval and Reranking System
+# HEB Product Retrieval and Reranking System
 
 This project implements a **hybrid retrieval and reranking pipeline** for matching queries to product descriptions.  
 It combines **OpenAI embeddings**, **FAISS (or NumPy fallback)** for similarity search, and a **cross-encoder model** for reranking.  
